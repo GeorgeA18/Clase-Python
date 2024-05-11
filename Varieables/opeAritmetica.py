@@ -1,4 +1,4 @@
-from variables import numero1
+from Varieables.variables import numero1
 
 print("--------------------------------------------")
 print(numero1)
